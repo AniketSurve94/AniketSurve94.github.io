@@ -1,11 +1,11 @@
 /* ====== Global Styles ====== */
 body {
-  margin: 0;
-  font-family: 'Segoe UI', Roboto, sans-serif;
+  font-family: 'Inter', sans-serif;
   color: #1a1a1a;
-  background: #fff;
-  display: flex;
+  background: #f9fafb;
+  line-height: 1.6;
 }
+
 
 /* Sidebar */
 .sidebar {
